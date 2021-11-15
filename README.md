@@ -1,5 +1,10 @@
 # Mediapipe integration to Qt application example
 Example on how to integrate mediapipe as a dynamic library into Qt applicaton on Linux.
+
+Resulting application:
+
+ [![](images/results.gif)]()
+
 Mediapipe examples implemented are:
  * SelfieSegmentation
  * HandTracking
