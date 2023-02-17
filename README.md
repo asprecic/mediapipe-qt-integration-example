@@ -1,4 +1,8 @@
+
 # Mediapipe integration to Qt application example
+
+**NOTE** Also checkout https://github.com/rajkundu/libmp-example
+
 Example on how to integrate mediapipe as a dynamic library into Qt applicaton on Linux.
 
 Resulting application:
